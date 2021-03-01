@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=PT+Sans&display=swap');
+
+.body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.center-div {
+  padding-top: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+.btn btn-success {
+  padding: 0.4em 2em;
+}
+
+.border {
+  padding: 20px;
+}
+
+form {
+  padding: 0.3em;
+}
+
+#login .title > span {
+  font-size: 0.8em;
+}
